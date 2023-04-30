@@ -1,0 +1,22 @@
+{
+  "name": "feedmee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/key0123456789/feedmee.git"
+  },
+  "author": "key",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/key0123456789/feedmee/issues"
+  },
+  "homepage": "https://github.com/key0123456789/feedmee#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
